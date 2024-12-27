@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Poppins;
+}
+body{
+    background-color: #CD7F32;
+}
+
+.inqbtn button{
+    width: 50%;
+    background: linear-gradient(to right, #E1C16E,#6E260E);
+    border: none;
+    padding: 10px;
+}
+
+.productRow button{
+    background: linear-gradient(to right, #E1C16E,#6E260E);
+    border: none;
+}
+
+#formInc{
+    background: #d2cccc;
+}
